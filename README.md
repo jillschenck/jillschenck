@@ -1,7 +1,5 @@
 - 👋  Hi, I’m @jillschenck
-- 👀  I’m interested in learning how to program.
-- 🌱  I’m currently learning JavaScript.
-- 💞️  I’m looking to collaborate on JavaScript projects.
+- 🌱  I’m currently learning Python and HTML! Currently working on my first small project.
 - 📫  You can reach me at my Discord: @Jill#0278
 
 <!---
