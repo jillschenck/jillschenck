@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @jillschenck
-- 🌱  I’m currently learning Python and HTML! Currently working on my first small project.
+- 🌱  Currently learning SQL, HTML/CSS, and Python.
 - 📫  You can reach me at my Discord: @Jill#0278
 
 <!---
